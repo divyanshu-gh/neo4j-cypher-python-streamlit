@@ -135,7 +135,7 @@ MATCH (s:Startup {name: "ZappGo"})-[:FOUNDED_BY]->(f:Founder) RETURN f;
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Divyanshu** – [@github](https://github.com/divyanshu-gh)
 
