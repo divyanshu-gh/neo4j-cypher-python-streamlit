@@ -1,0 +1,11 @@
+startup,year,location,founder_name,founder_age,founder_experience,investor_name,investor_firm,investor_type,sector
+ZappGo,2019,Bangalore,Harsh Mehra,29,5,Sequoia India,Sequoia VC,VC,Logistics
+FarmFresh,2021,Pune,Divya Reddy,34,7,Accel Partners,Accel India,VC,Agritech
+CodeCrush,2018,Hyderabad,Ankit Sinha,27,3,Rajan Anandan,Angel Syndicate,Angel,EdTech
+MediBridge,2020,Delhi,Simran Kaur,31,6,Blume Ventures,Blume Capital,VC,Healthcare
+Finserve,2017,Mumbai,Aryan Shah,35,9,Tiger Global,Tiger Group,Private Equity,FinTech
+QuickKart,2016,Chennai,Ritika Bansal,32,8,Lightspeed,Lightspeed India,VC,E-Commerce
+HealthHut,2019,Bangalore,Karan Ahuja,30,6,Matrix Partners,Matrix India,VC,Healthcare
+GreenGrid,2022,Jaipur,Sneha Desai,28,2,Kalaari Capital,Kalaari Group,VC,CleanTech
+SkillHive,2020,Kolkata,Ravi Iyer,33,7,India Quotient,IQ Ventures,Angel,EdTech
+AgroLink,2018,Lucknow,Pooja Mishra,36,10,Omidyar Network,ON India,Private Equity,Agritech
